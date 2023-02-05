@@ -1,0 +1,6 @@
+*.env
+logs/
+*.backup
+*.pyc
+2_terraform_gcp/terraform/terraform.tfstate
+serving_dir/
